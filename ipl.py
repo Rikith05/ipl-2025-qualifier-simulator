@@ -158,7 +158,7 @@ def run_simulation(points_df, matches_df):
                 fig.update_yaxes(autorange="reversed")
                 st.plotly_chart(fig)
 
-# 🔧 Mode selection with persistence
+#  Mode selection with persistence
 st.sidebar.header("⚙️ Load Match Data")
 mode = st.sidebar.radio("Choose mode", ["Use default Excel file", "Upload custom files"])
 
