@@ -52,7 +52,7 @@ By default, the app attempts to load IPL_2025_Points_Table.xlsx. Users can also 
 🚀 How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/ipl-simulator.git
+git clone https://github.com/your-rikith05/ipl-2025-qualifier-simulator.git
 cd ipl-simulator
 
 Install dependencies:
